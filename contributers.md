@@ -54,6 +54,7 @@
 | Naman Pal              | Naman2251              | IIIT Allahabad                |
 | Ashutosh Kesarwani     | Lucifer-0612           | HIT Haldia                    |
 
+| Apoorv Mittal              | Apoorv012              | JIIT Noida                |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
